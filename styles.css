@@ -1,0 +1,17 @@
+body {
+    background-color:antiquewhite
+}
+
+
+h1, h2 {
+    font-style: italic;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+ul {
+    list-style: disc;
+}

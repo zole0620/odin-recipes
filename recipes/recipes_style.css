@@ -3,13 +3,7 @@ body {
     font-family: 'Brush Script MT', 'Lucida Handwriting', cursive;
 }
 
-div {
-    width: 500px;
-    text-align: center;
-    background-color: grey;
-    padding: 50px;
-    margin: auto;
-}
+
 
 h1, h2 {
     font-style: italic;
@@ -27,9 +21,19 @@ h2 {
 img {
     height: 200px;
     width: auto;
+    display: inline-block;
 }
 
 ul {
     list-style: disc;
     
 }
+
+li {
+    padding: 5px;
+}
+
+.desc {
+    display: inline-block;
+}
+

@@ -8,6 +8,7 @@ div {
     text-align: center;
     background-color: grey;
     padding: 50px;
+    margin: auto;
 }
 
 h1, h2 {
@@ -30,9 +31,12 @@ img {
 
 ul {
     list-style: disc;
+    
 }
 
 li {
     display: inline-block;
     background-color: rgb(209, 216, 200);
+    padding: 10px;
+    
 }
